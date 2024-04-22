@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+.heading {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.heading{
+    border: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  body{
+    background-image:url("./Images/1.jpg") ;
+  }
